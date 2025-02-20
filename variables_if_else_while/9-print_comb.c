@@ -1,9 +1,12 @@
 #include <stdio.h>
- /**
-  * main - Prints all possible combinations of single-digit numbers.
-  *
-  * Return: 0 always
-  */
+/**
+ * main - Entry point
+ * 
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ * 
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int c;
